@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Pages">
+    <File Path="Pages\CRUD.aspx" Url="SitePages/CRUD.aspx" />
+    <File Path="Pages\REST-CRUD.aspx" Url="SitePages/REST-CRUD.aspx" />
+  </Module>
+</Elements>

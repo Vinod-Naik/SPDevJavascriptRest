@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\_references.js" Url="SiteAssets/Scripts/_references.js" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="SiteAssets/Scripts/jquery-1.9.1.min.js" />
+    <File Path="Scripts\JS-CURD.js" Url="SiteAssets/Scripts/JS-CURD.js" />
+    <File Path="Scripts\JS-ListItemManager.js" Url="SiteAssets/Scripts/JS-ListItemManager.js" />
+    <File Path="Scripts\JS-ListManager.js" Url="SiteAssets/Scripts/JS-ListManager.js" />
+    <File Path="Scripts\REST-CURD.js" Url="SiteAssets/Scripts/REST-CURD.js" />
+    <File Path="Scripts\REST-ListManager.js" Url="SiteAssets/Scripts/REST-ListManager.js" />
+    <File Path="Scripts\REST-ListItemManager.js" Url="SiteAssets/Scripts/REST-ListItemManager.js" />
+  </Module>
+</Elements>

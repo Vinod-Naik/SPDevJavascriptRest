@@ -1,0 +1,5 @@
+E:\Code\SPDevJavascriptRest\SPDevJavascriptRest\bin\Debug\SPDevJavascriptRest.dll
+E:\Code\SPDevJavascriptRest\SPDevJavascriptRest\bin\Debug\SPDevJavascriptRest.pdb
+E:\Code\SPDevJavascriptRest\SPDevJavascriptRest\obj\Debug\SPDevJavascriptRest.csprojResolveAssemblyReference.cache
+E:\Code\SPDevJavascriptRest\SPDevJavascriptRest\obj\Debug\SPDevJavascriptRest.dll
+E:\Code\SPDevJavascriptRest\SPDevJavascriptRest\obj\Debug\SPDevJavascriptRest.pdb

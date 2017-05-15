@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Style">
+    <File Path="Style\App.css" Url="Style Library/SPJsDev/App.css" />
+  </Module>
+</Elements>

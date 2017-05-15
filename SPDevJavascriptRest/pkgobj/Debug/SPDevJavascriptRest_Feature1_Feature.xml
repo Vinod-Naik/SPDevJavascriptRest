@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="1187cc2f-aa66-40d0-85ea-01307ee1c88f" Scope="Web" Title="SPDevJavascriptRest">
+  <ElementManifests>
+    <ElementManifest Location="Scripts\Elements.xml" />
+    <ElementFile Location="Scripts\_references.js" />
+    <ElementFile Location="Scripts\jquery-1.9.1.min.js" />
+    <ElementFile Location="Scripts\JS-CURD.js" />
+    <ElementFile Location="Scripts\JS-ListItemManager.js" />
+    <ElementFile Location="Scripts\JS-ListManager.js" />
+    <ElementFile Location="Scripts\REST-CURD.js" />
+    <ElementFile Location="Scripts\REST-ListManager.js" />
+    <ElementFile Location="Scripts\REST-ListItemManager.js" />
+    <ElementManifest Location="Pages\Elements.xml" />
+    <ElementFile Location="Pages\CRUD.aspx" />
+    <ElementFile Location="Pages\REST-CRUD.aspx" />
+    <ElementManifest Location="Style\Elements.xml" />
+    <ElementFile Location="Style\App.css" />
+  </ElementManifests>
+</Feature>
